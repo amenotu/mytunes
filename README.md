@@ -1,5 +1,5 @@
 #mytunes
-Mytunes is a simple online music player created using HTML5, Backbone.js, Underscore.js and jQuery. It currently only has 5 songs available in the library, which is populated with a seed file.
+This is a project I completed as a student at Hack Reactor. This project was worked on with a pair. Mytunes is a simple online music player created using HTML5, Backbone.js, Underscore.js and jQuery. It currently only has 5 songs available in the library, which is populated with a seed file.
 
 #Dependencies
     "jquery": "~2.0.3",
