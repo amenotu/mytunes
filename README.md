@@ -7,13 +7,13 @@ This is a project I completed as a student at Hack Reactor. This project was wor
     "backbone": "~1.0.0"
 
 #Installation
-Simply cd into the local directory on your machine and run this command if you have bower installed:
-
-`$ bower install`
-
 If you don't have bower, run this command first:
 
 `$ npm bower -g install`
+
+Then simply cd into the local directory on your machine and run this command:
+
+`$ bower install`
 
 #Usage
 After installing all the required dependencies, just open up the index.html file in Google Chrome and listen to some music!
